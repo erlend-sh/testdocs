@@ -1,0 +1,4 @@
+name: My Test Docs
+markdown: redcarpet
+pygments: true
+baseurl: /testdocs
